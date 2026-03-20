@@ -1,6 +1,6 @@
-# Real Estate Web Scraper
+# Real Estate Data Engineering
 
-A Python-based web scraping project that collects real estate property listings from Brazilian websites and stores them in a database.
+A Python-based data enginnering project that collects real estate property listings from Brazilian websites and stores them in a database.
 
 ## Overview
 
